@@ -1,0 +1,11 @@
+
+This is front end module.
+We are goinge to learn about HTML, CSS, JS.
+
+
+Git - Source Control on desktop
+GitHub - Source control on cloud this code to GitHub?
+
+How do we send this code to GitHub?
+
+master -> branch
