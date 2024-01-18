@@ -9,3 +9,8 @@ GitHub - Source control on cloud this code to GitHub?
 How do we send this code to GitHub?
 
 master -> branch
+
+Open Source Application ->
+    Where code is publicly available.
+    You can also contribute.
+linux, python, js, java, node.js, R, express    
