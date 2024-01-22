@@ -13,4 +13,7 @@ master -> branch
 Open Source Application ->
     Where code is publicly available.
     You can also contribute.
-linux, python, js, java, node.js, R, express    
+linux, python, js, java, node.js, R, express  
+
+
+JS -> On browsew, and server (node.js)
