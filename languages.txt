@@ -1,0 +1,40 @@
+
+Compiled Languages. (Java, Python, Go) => High Level Languages.
+    => Translates Java into Machine Level Language.
+Interpreted language.
+    => HTML
+    => Browser parses HTML
+        (to check syntaxes, grammer)
+
+
+Machine Level Language - [Apple, Intel, AMD]
+
+
+// high level
+System.out.println("Hello");
+console.log("Hello");
+
+Intel -> READ, WRITE, HOLD, RUN.
+
+Java.
+
+Compiler Types: AOT, JIT.
+
+JIT ()
+
+// machine level
+PRINT "Hello";
+
+AOT (Ahead of time)
+1. Write a Java Program.
+2. Converting in machine language.
+3. Faster.
+4. Not Platform independent (C, C++, C# without .net core.)
+
+
+JIT (Just in time)
+1. Write a Program.
+2. Run on machine.
+3. Compiled just before running.
+4. Java, JS, Go, C#
+5. Java Runtime. JRE, .NET, NodeJS.

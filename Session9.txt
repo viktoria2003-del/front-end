@@ -1,0 +1,23 @@
+
+Agenda.
+
+1. Complete Form. 
+2. More Tags - Div, span, a,
+3. HTML5
+4. Inline vs Block level element.
+5. What is an element.
+6. element vs Tags
+
+
+What is an Element?
+    => From opening tag to closing tag area.
+
+Inline Element.
+    => Occupaiee ui space as much as it needs.
+    => Inline elements can start on the same line if there is space.
+    => Can'T give height/width to inline wlements.
+
+Block Level Element. 
+    => Occupies entire line.
+    => Stats on new line.
+    => change height and with.
