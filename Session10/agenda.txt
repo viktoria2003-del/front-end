@@ -1,0 +1,23 @@
+
+Agenda for session 10
+
+1. Table. 
+2. header.
+3. footer.
+4. section.
+5. nav
+6. SEO
+7. Titel
+
+
+SEO => Search Engine Optimization
+
+Encoding 
+=> Formats of data computers use.
+
+travelcompany.com
+travelxyz.com
+
+DNS Server
+   => google.com (Domain Name)
+   => yorowncomany.com
