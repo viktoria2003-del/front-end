@@ -13,9 +13,9 @@ What is an Element?
     => From opening tag to closing tag area.
 
 Inline Element.
-    => Occupaiee ui space as much as it needs.
+    => Occupaies ui space as much as it needs.
     => Inline elements can start on the same line if there is space.
-    => Can'T give height/width to inline wlements.
+    => Can'T give height/width to inline elements.
 
 Block Level Element. 
     => Occupies entire line.
