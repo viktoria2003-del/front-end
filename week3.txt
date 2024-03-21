@@ -1,0 +1,13 @@
+
+Goal -> Full Stack Developer.
+
+Path => 
+
+1. Understanding Fundamentals. -Donne.
+2. HTML - Done.
+3. CSS 
+4. JS
+5. ReactJS => Start Project Based Learning.
+    => Here Front-end comletes.
+6. NodeJS/ExpressJS.
+7. MongoDB

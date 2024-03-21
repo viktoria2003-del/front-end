@@ -1,0 +1,6 @@
+
+HTML => To create a row controls.
+
+CSS => To design the controls/ apply styles to controls.
+    => to make it look better.
+JS => To allow event handling.

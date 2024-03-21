@@ -16,7 +16,7 @@ SignUp Form.
     2. email.
     3. phone.
     4. password.
-    5. dob
+    5. date of birth
     6. gender.
     7. username
     8. address.
