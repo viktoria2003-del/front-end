@@ -1,0 +1,29 @@
+
+
+#formContainer{
+    /* cssProperty: value */
+    background-color:yellowgreen;
+
+}
+
+/* Tag Selector */
+h3{
+    color: blueviolet;
+}
+
+/* ID Selector */
+#signUpHeader{
+    color: aqua;
+}
+
+/* Tag Selector */
+span{
+    color: brown;
+}
+
+/* Class Selector */
+.text-wrapper{
+    /* Border: width, px=> pixels, type of border=> solid, color of border  */
+    border: 1px solid green;
+}
+

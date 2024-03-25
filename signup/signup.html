@@ -6,22 +6,59 @@
     <!-- Head includes header information about the page. -->
 
     <head>
+        <link rel="stylesheet" href="signup.css">
+        <!-- Relative Path -->
+        <link rel="stylesheet" href="../common.css">
+        <style>
+            /* block based on id selector */
+            /* block based on id selector */
+          /*  #formContainer{
+                /* cssProperty: value */
+               /* background-color:yellowgreen;
 
+            }
+
+            h3{
+                color: blueviolet;
+            }
+
+            signUpHeader{
+                color: aqua;
+            }
+
+            span{
+                color: brown;
+            }
+            
+            .text-wrapper{
+                /* Border: width, px=> pixels, type of border=> solid, color of border  */
+               /* border: 1px solid green;
+            }
+
+            /* This is lowest priority */
+            /**{
+                color: darkgoldenrod;
+            }*/
+        </style>
     </head>
 
     <!-- Body contains all the controls for UI. -->
 
     <body>
         <!-- <h1>Please Sign Up </h1> -->
-        <h2>You need to sign up before you can use our services.</h2>
-        <!-- <h3>Please Sign Up </h3>
-        <h4>Please Sign Up </h4>
+        <h1>You need to sign up before you can use our services.</h1>
+        <h3 id="signUpHeader">Pleas Sign up</h3>
+        <!-- <h4>Please Sign Up </h4>
         <h5>Please Sign Up </h5>
         <h6>Please Sign Up </h6> -->
 
         <!-- Div is parent form. -->
         <!-- Div used as container and apply css to the container.  -->
-        <div>
+        <!-- style=> applies inline css -->
+
+        <!-- css syntax => cssProperty:value -->
+        <!-- <div style="background-color: red;"> -->
+        <div id="formContainer">
             <!-- Form is parent of input elements. -->
             <!-- Form is used for submit event, calls to server, reading value -->
 
@@ -110,6 +147,16 @@
         <span>
             This is span 2 
         </span>
+
+
+
+        <span class="text-wrapper">
+            This is Span 3
+        </span>
+
+        <div class="text-wrapper">
+            Another div 
+        </div>
 
 
         <h3>End of Form</h3>
