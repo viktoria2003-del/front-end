@@ -1,29 +1,75 @@
 
+.container{
+   display: flex;
+}
+
+.left-container{
+   width: 50%;
+}
+
+#signUpHeader{
+    color: #2f4f4f;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 #formContainer{
-    /* cssProperty: value */
-    background-color:yellowgreen;
-
+   width: 50%;
+    /* Box Model */
+    border-left: 1px groove lightgrey;
+    /* space between border */
+    /* padding: top right bottom left; */
+    padding: 12px 12px 12px 12px;
+    /* padding-top: 0; */
+    margin: 18px;
 }
 
-/* Tag Selector */
-h3{
-    color: blueviolet;
-}
+.form-control{
+    /* It will display control like a block element */
+    display: block;
+    /* 100% of what? => 100% of parent  */
+    width: 100%;
+    height: 36px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 6px;
+    padding: 6px;
+ }
 
-/* ID Selector */
-#signUpHeader{
-    color: aqua;
-}
+ .form-radio{
+    /* It will display control like a block element */
+    display: block;
+    /* 100% of what? => 100% of parent  */
+    margin-top: 4px;
+    padding: 4px;
+ }
 
-/* Tag Selector */
-span{
-    color: brown;
-}
+ .form-label{
+   
+ }
 
-/* Class Selector */
-.text-wrapper{
-    /* Border: width, px=> pixels, type of border=> solid, color of border  */
-    border: 1px solid green;
-}
+ *{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ .form-group{
+    margin: 12px;
+ }
+
+ .btn-signup{
+    float: right;
+    height: 42px;
+    width: 100px;
+    margin: 12px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    cursor: pointer;
+ }
+
+ .btn-clear{
+
+ }
 

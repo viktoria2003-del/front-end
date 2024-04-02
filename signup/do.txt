@@ -1,0 +1,17 @@
+
+1. Signup Header.
+      Color
+      Increase font size
+      Change font
+
+2. Container
+    Some padding
+    Some margin
+    Light Border
+
+3. Controls
+    Display as block-level
+    Width, height
+    font size, font family
+    border-radius
+    spacing aroun control [container]
